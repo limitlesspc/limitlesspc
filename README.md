@@ -22,3 +22,7 @@
 ![C++](https://img.shields.io/badge/C%2b%2b-00599C?logo=C%2b%2b&logoColor=fff&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=fff&style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=000&style=flat-square)
+
+---
+
+Lead programmer of <img width="14px" height="12px" src="https://hipaamate.com/images/favicon.ico"> [HIPAAMATE](https://hipaamate.com/)
